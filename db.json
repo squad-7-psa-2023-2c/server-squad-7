@@ -1,0 +1,26 @@
+{
+    "tickets": [
+        {
+            "id_ticket": "1",
+            "nombre": "pantalla rota",
+            "descripcion": "lalalalalal sigo y no escucho",
+            "fecha_de_creacion": "1",
+            "estado": "string",
+            "severidad": "string",
+            "prioridad": "string",
+            "cliente": "string",
+            "asignado": "string"
+        },
+        {
+            "id_ticket": "2",
+            "nombre": "pantalla rota",
+            "descripcion": "lalalalalal sigo y no escucho",
+            "fecha_de_creacion": "1",
+            "estado": "string",
+            "severidad": "string",
+            "prioridad": "string",
+            "cliente": "string",
+            "asignado": "string"
+        }
+    ]
+}
