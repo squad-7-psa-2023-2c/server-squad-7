@@ -9,7 +9,9 @@
             "severidad": "string",
             "prioridad": "string",
             "cliente": "string",
-            "asignado": "string"
+            "asignado": "string",
+            "producto_id": "string",
+            "version_id": "string"
         },
         {
             "id_ticket": "2",
@@ -20,7 +22,10 @@
             "severidad": "string",
             "prioridad": "string",
             "cliente": "string",
-            "asignado": "string"
+            "asignado": "string",
+            "producto_id": "string",
+            "version_id": "string"
+
         }
     ]
 }
