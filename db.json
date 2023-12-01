@@ -5,13 +5,13 @@
             "nombre": "pantalla rota",
             "descripcion": "lalalalalal sigo y no escucho",
             "fecha_de_creacion": "1",
-            "estado": "string",
-            "severidad": "string",
-            "prioridad": "string",
-            "cliente": "string",
-            "asignado": "string",
-            "producto_id": "string",
-            "version_id": "string"
+            "estado": "en procgreso",
+            "severidad": "s1",
+            "prioridad": "alta",
+            "cliente": "cliente 1",
+            "asignado": "juan",
+            "producto_id": "27",
+            "version_id": "10"
         },
         {
             "id_ticket": "2",
